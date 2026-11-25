@@ -1,7 +1,7 @@
 <!-- Header banner -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Srinivas%20J&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20Data%20Science%20Student%20%7C%20Aspiring%20AI%20Engineer&descSize=18&descAlignY=60" width="100%" alt="Srinivas J banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Srinivas%20J&fontSize=55&fontColor=ffffff" width="100%" alt="Srinivas J banner"/>
 
 <!-- Typing animation -->
 <a href="https://github.com/srinivasjtech">
