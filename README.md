@@ -20,7 +20,7 @@
 
 ## 🚀 About Me
 
-I'm a **second-year B.Tech student in Artificial Intelligence & Data Science** who loves turning ideas into working software. I enjoy solving problems, learning new technologies, and building projects that tackle real-world challenges.
+I'm a **Second-year B.Tech-Artificial Intelligence & Data Science Student at Saveetha Engineering College** who loves turning ideas into working software. I enjoy solving problems, learning new technologies, and building projects that tackle real-world challenges.
 
 | | |
 |---|---|
